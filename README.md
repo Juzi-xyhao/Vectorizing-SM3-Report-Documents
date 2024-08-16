@@ -1,3 +1,6 @@
+本文档是2024腾讯犀牛鸟开源活动的产出文档  
+相关issue[Vectorizing ShangMi algorithms](https://github.com/Tencent/TencentKona-17/issues/28)
+
 关于Vector API的使用见[VectorAPI的介绍&简单使用](Vector%20API介绍、简单使用.md)
 
 具体思路分析见 [VectorAPI优化SM3算法思路](Vector%20API优化SM3算法.md)
